@@ -1,4 +1,4 @@
-## Oi! Eu sou o Isaac Miranda Campos
+## HI! I am the Isaac Miranda Campos
  <div>
   <a href="https://github.com/isaacmirandacampos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacmirandacampos&layout=compact&langs_count=7&theme=dracula"/>
